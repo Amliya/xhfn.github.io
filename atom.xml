@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>IT打杂</title>
+  
+  <subtitle>hi-it.org.cn</subtitle>
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="https://hi-it.org.cn/"/>
+  <updated>2019-12-12T12:57:25.201Z</updated>
+  <id>https://hi-it.org.cn/</id>
+  
+  <author>
+    <name>袁记勇</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>article title</title>
+    <link href="https://hi-it.org.cn/2019/12/12/article-title/"/>
+    <id>https://hi-it.org.cn/2019/12/12/article-title/</id>
+    <published>2019-12-12T12:54:25.000Z</published>
+    <updated>2019-12-12T12:57:25.201Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;fdsfdsfsfd&lt;/p&gt;
+&lt;p&gt;fsdfsdfs&lt;/p&gt;
+
+        
+      
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>二零一七年终总结</title>
+    <link href="https://hi-it.org.cn/2018/01/22/2017-conclusion/"/>
+    <id>https://hi-it.org.cn/2018/01/22/2017-conclusion/</id>
+    <published>2018-01-22T04:32:09.000Z</published>
+    <updated>2019-12-11T11:57:35.774Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;div align=&quot;middle&quot;&gt;&lt;iframe frameborder=&quot;no&quot; border=&quot;0&quot; marginwidth=&quot;0&quot; marginheight=&quot;0&quot; width=&quot;330&quot; height=&quot;86&quot;
+        
+      
+    
+    </summary>
+    
+      <category term="随笔" scheme="https://hi-it.org.cn/categories/%E9%9A%8F%E7%AC%94/"/>
+    
+    
+      <category term="随笔" scheme="https://hi-it.org.cn/tags/%E9%9A%8F%E7%AC%94/"/>
+    
+  </entry>
+  
+</feed>
